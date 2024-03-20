@@ -1,15 +1,20 @@
 # ExpectedReturns Tests
 
 0: **Pre-req**
-[Prosper Loan Analysis](https://github.com/luca-miniati/ProsperLoanAnalysis)
+
+- [Prosper Loan Analysis](https://github.com/luca-miniati/ProsperLoanAnalysis)
+- This is an R project where I analyzed a dataset of credit data.
 
 1: **Easy**
+
 Download/install went smoothly
 
 2: **Intermediate**
+
 Time-series-momentum.Rmd: Doesn't build because `ff.dates` does not match index of `data`.
 
 3: **Harder**
+
 Commodities-long-run.Rmd: 
 
 - Analysis:
